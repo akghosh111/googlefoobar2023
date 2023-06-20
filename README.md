@@ -1,6 +1,6 @@
 # Google Foobar
 
-![Google Foobar](foobar.jpg)
+![Google Foobar](foobar.jpeg)
 
 Welcome to the Google Foobar repository! This repository is a collection of solutions to the Google Foobar challenges. Google Foobar is an invitation-only coding challenge presented by Google. It consists of a series of programming problems across multiple difficulty levels.
 
